@@ -1,0 +1,10 @@
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\bin\Debug\NumbersCheck.exe.config
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\bin\Debug\NumbersCheck.exe
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\bin\Debug\NumbersCheck.pdb
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.csproj.AssemblyReference.cache
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.Form1.resources
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.Properties.Resources.resources
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.csproj.GenerateResource.cache
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.exe
+C:\Users\Gleb\source\repos\NumbersCheck\NumbersCheck\obj\Debug\NumbersCheck.pdb
